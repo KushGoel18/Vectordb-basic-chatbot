@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+groq
+nltk
+faiss-cpu
+sentence-transformers
+scikit-learn
+rouge-score
